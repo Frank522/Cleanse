@@ -8,22 +8,24 @@ export interface Product {
 export const products = [
   {
     id: 1,
-    name: 'Phone XL',
-    price: 799,
-    description: 'A large phone with one of the best screens'
+    name: 'Aoenium',
+    price: 7.99,
+    description:
+      'Aeoniums are most commonly known for their striking rosettes made up of dense, glossy, waxy leaves growing out of a single stem.',
   },
   {
     id: 2,
-    name: 'Phone Mini',
-    price: 699,
-    description: 'A great phone with one of the best cameras'
+    name: 'Kalanchoe',
+    price: 6.99,
+    description:
+      'Kalanchoe is a beautiful flowering plant that is both easy and rewarding to grow indoors or outdoors',
   },
   {
     id: 3,
-    name: 'Phone Standard',
-    price: 299,
-    description: ''
-  }
+    name: 'Senecio',
+    price: 2.99,
+    description: 'Senecio is a genus of flowering plants that contains more than 1000 species of groundsels, ragworts, and dusty miller.',
+  },
 ];
 
 
